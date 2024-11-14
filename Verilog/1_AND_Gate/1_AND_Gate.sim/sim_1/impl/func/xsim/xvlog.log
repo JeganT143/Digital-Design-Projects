@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Studies/10_Projects/Digital Design Projects/Verilog/1_AND_Gate/1_AND_Gate.sim/sim_1/impl/func/xsim/ANDtb_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AND
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Studies/10_Projects/Digital Design Projects/Verilog/1_AND_Gate/1_AND_Gate.srcs/sim_1/new/ANDtb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ANDtb

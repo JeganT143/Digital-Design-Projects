@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Studies/10_Projects/Digital Design Projects/Verilog/2_top/2_top.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Studies/10_Projects/Digital Design Projects/Verilog/2_top/2_top.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Studies/10_Projects/Digital Design Projects/Verilog/2_top/2_top.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

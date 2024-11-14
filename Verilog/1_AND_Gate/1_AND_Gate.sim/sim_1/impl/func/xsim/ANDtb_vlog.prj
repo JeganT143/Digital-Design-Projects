@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"ANDtb_func_impl.v" \
+"../../../../../1_AND_Gate.srcs/sim_1/new/ANDtb.v" \
+
+# Do not sort compile order
+nosort
